@@ -11,20 +11,17 @@ author_profile: true
 
 I serve as a reviewer for several international journals in stochastic processes, queueing theory, and applied probability, including:
 
-- Mathematical Methods of Operations Research
-- Queueing Systems
-- Methodology and Computing in Applied Probability
-- Journal of Systems Science and Systems Engineering
-- Applied Mathematical Modelling *(if applicable later)*
-- Performance Evaluation *(if applicable later)*
+- The Journal of Supercomputing
+- International Journal of Data Science and Analytics
+- International Journal of Applied and Computational Mathematics
+- Scientific Reports
 
 ---
 
 ## Conference Reviewing
 
-- IEEE Conference on Decision and Control (CDC)
-- European Conference on Operational Research (EURO)
-- International Symposium on Stochastic Systems
+- CDC Conference in The IEEE Control Systems Society Conference, Journals, Award Management System
+
 
 ---
 
