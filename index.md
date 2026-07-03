@@ -29,7 +29,7 @@ My research interests include:
 
 Laboratoire Informatique d'Avignon (LIA)
 
-The Center for Teaching and Research in Computer Science ( CERI )
+The Center for Teaching and Research in Computer Science (CERI)
 
 Avignon Université
 
