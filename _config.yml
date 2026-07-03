@@ -1,0 +1,44 @@
+title: "Dr. Kousik Das"
+name: "Dr. Kousik Das"
+
+description: >
+  Postdoctoral Research Scientist at Laboratoire Informatique d'Avignon (LIA),
+  Avignon Université, France.
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "default"
+
+locale: "en-US"
+
+url: "https://kousik-das.github.io"
+baseurl: ""
+
+author:
+  name: "Dr. Kousik Das"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Postdoctoral Research Scientist, Avignon Université, France"
+  location: "Avignon, France"
+  email: "kousik.das@univ-avignon.fr"
+
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=_WfzYssAAAAJ&hl=en"
+
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0003-3642-2291"
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/kousik-das-697851200/"
+
+collections:
+  publications:
+    output: true
