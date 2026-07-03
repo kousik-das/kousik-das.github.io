@@ -6,7 +6,7 @@ title: "Dr. Kousik Das"
 
 # Welcome
 
-I am a **Postdoctoral Research Scientist** at the **Laboratoire Informatique d'Avignon (LIA), CERI, Avignon Université**, France.
+I am a **Postdoctoral Research Scientist** at the **LIA, CERI, Avignon Université**, France.
 
 I work in the **CORNET** research team under the supervision of **Prof. Yezekayel Hayel** on the **MUGS** project funded by the **U.S. Army**.
 
@@ -16,9 +16,10 @@ My research interests include:
 - Polling Systems
 - Reinforcement Learning
 - Stochastic Games
+- Mean Filed Games
 - Markov Decision Processes
-- Applied Probability
-- Network Optimization
+- Applied Probability 
+- Stochastic Approximations
 
 ---
 
@@ -27,6 +28,8 @@ My research interests include:
 **Postdoctoral Research Scientist**
 
 Laboratoire Informatique d'Avignon (LIA)
+
+The Center for Teaching and Research in Computer Science ( CERI )
 
 Avignon Université
 
