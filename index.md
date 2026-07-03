@@ -8,7 +8,7 @@ title: "Dr. Kousik Das"
 
 I am a **Postdoctoral Research Scientist** at the **LIA, CERI, Avignon Université**, France.
 
-I work in the **CORNET** research team with **Prof. Yezekayel Hayel** on the **MUGS:Multi-layer graph games for network cyberdeception** project funded by the **U.S. Army**.
+I work in the **CORNET** research team with **Prof. Yezekayel Hayel** on the **MUGS: Multi-layer graph games for network cyberdeception** project funded by the **U.S. Army**.
 
 My research interests include:
 
