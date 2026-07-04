@@ -9,7 +9,7 @@ header:
 <div style="display:flex;align-items:center;gap:35px;flex-wrap:wrap;margin-bottom:40px;">
 
 <img src="/assets/images/profile.jpg"
-     style="width:320px;height:320px;border-radius:50%;object-fit:cover;border:4px solid #ddd;">
+     style="width:300px;height:300px;border-radius:50%;object-fit:cover;border:4px solid #ddd;">
 
 <div>
 
