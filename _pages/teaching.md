@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-## Teaching
+
 
 I am passionate about teaching mathematics, probability, stochastic modelling, and operations research. My teaching philosophy emphasizes building strong mathematical foundations while connecting theoretical concepts with practical applications in engineering, computer science, and data-driven decision-making.
 

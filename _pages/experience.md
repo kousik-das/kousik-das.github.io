@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-# Professional Experience
+
 
 ## Postdoctoral Research Scientist
 **Laboratoire Informatique d'Avignon (LIA), Centre d'Enseignement et de Recherche en Informatique (CERI), Avignon Université, France**
