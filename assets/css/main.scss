@@ -1,28 +1,31 @@
+---
+# Only the main Sass file needs front matter
+---
+
 @import "minimal-mistakes";
 
 /* Make the left sidebar wider */
 .sidebar {
-  width: 320px;
+  width: 320px !important;
 }
 
-/* Adjust the main content to account for the wider sidebar */
-@media (min-width: 80em) {
-  .archive {
-    width: calc(100% - 340px);
-    padding-right: 2em;
-  }
-
-  .sidebar {
-    width: 320px;
-  }
+/* Reduce width of main content accordingly */
+.archive {
+  width: calc(100% - 340px) !important;
 }
 
-/* Make the profile picture larger */
-
+/* Bigger profile image */
 .author__avatar img {
-  width: 420px !important;
-  height: 420px !important;
-  border-radius: 90%;
-  border: 3px solid #eee;
+  width: 260px !important;
+  max-width: 260px !important;
+  height: 260px !important;
+  border-radius: 50%;
   object-fit: cover;
+}
+
+/* Center the profile */
+.author__avatar,
+.author__content,
+.author__urls {
+  text-align: center;
 }
