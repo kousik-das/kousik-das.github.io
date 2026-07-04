@@ -74,6 +74,9 @@ author_profile: true
 
 ## Workshops and Training Programs
 
+- Lectures on Probability and Stochastic Processes XVII (LPS XVII) (2025) 
+  Department of Mathematics, Indian Institute of Technology Madras
+
 - Reinforcement Learning Workshop (2025)  
   Indian Institute of Science (IISc), Bengaluru
 

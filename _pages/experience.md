@@ -14,7 +14,7 @@ author_profile: false
 
 - Member of the **CORNET** research team.
 - Working on the **MUGS (Multi-layer Graph Games for Network Cyberdeception)** project funded by the **U.S. Army**.
-- Conducting research in stochastic games, reinforcement learning, network optimization, and applied probability under the supervision of **Prof. Yezekayel Hayel**.
+- Conducting research in POSG, RL, Pursuit-evasion games with **Prof. Yezekayel Hayel**.
 
 ---
 
@@ -34,31 +34,39 @@ author_profile: false
 
 **2024 – 2026**
 
-- Conducted research on stochastic games, reinforcement learning, and queueing systems.
-- Developed learning algorithms for partially observable stochastic games and Bayesian game-theoretic models.
+- Conducted research on stochastic games, mean field games and polling systems.
 - Co-mentored graduate-level courses and supervised student research projects.
+
+---
+
+## Contractual faculty
+**Department of Mathematics**
+**National Institute of Technology Raipur, India**
+
+**2023 - 2024**
+
+- Taught B.Tech and MCA courses
+
 
 ---
 
 # Education
 
-## Ph.D. in Mathematics
+## Ph.D. in Mathematics (8.5 CGPA) (2023)
 **National Institute of Technology Raipur, India**
 
-Research Area:
-- Queueing Theory
-- Matrix-Analytic Methods
-- Stochastic Processes
-- Applied Probability
+Research Stream: Discrete-time Correlated bulk queues with real-life applications
+Research Supervisor: Prof. Sujit Kumar Samanta
+
 
 ---
 
-## M.Sc. in Mathematics
+## M.Sc. in Mathematics (First Class) (2016)
 
-*(We'll add your university name and year later.)*
+*(Dum Dum Motijheel College, P.G. Unit, West Bengal State University)*
 
 ---
 
-## B.Sc. in Mathematics
+## B.Sc. in Mathematics Honours (First Class) (2014)
 
-*(We'll add your university name and year later.)*
+*(Bidhannagr College, West Bengal State University)*
