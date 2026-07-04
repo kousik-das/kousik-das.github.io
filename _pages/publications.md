@@ -55,6 +55,19 @@ DOI: https://doi.org/10.1007/s00186-023-00816-1
 
 ---
 
+**6.**
+S. K. Samanta, **K. Das**, 
+*Computing stationary distributions of the D-MAP/D-MSP(a,b)/1 queueing system* 
+Journal of Ambient Intelligence and Humanized Computing, 13(1): 571-590, 2022. (SCIE)
+
+---
+
+**7.**
+**K. Das**, S. K. Samanta, 
+*Modelling and analysis of D-BMAP/D-MSP/1 queue using RGfactorization*
+Quality Technology & Quantitative Management, 18(3): 355-381, 2021. (SCIE)
+
+
 ## Conference Papers
 
 **6.**
