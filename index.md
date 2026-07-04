@@ -25,7 +25,7 @@ header:
 
 ### Research Interests
 
-Queueing Theory • Polling Systems • Applied Probability • Stochastic Processes • Reinforcement Learning • Markov Decision Processes • Stochastic Games • Mean Field Games • Network Optimization
+Queueing Theory • Polling Systems • Applied Probability • Stochastic Processes • Reinforcement Learning • Markov Decision Processes • Stochastic Games • Mean Field Games • Stochastic Approximation
 
 <br>
 
@@ -43,25 +43,13 @@ Queueing Theory • Polling Systems • Applied Probability • Stochastic Proce
 
 I am a **Postdoctoral Research Scientist** at **Avignon Université, France**, working in the **CORNET** research team under the supervision of **Prof. Yezekayel Hayel** on the **MUGS** project funded by the **U.S. Army**.
 
-My research focuses on developing rigorous mathematical models and computational algorithms in
-
-- Queueing Theory
-- Polling Systems
-- Stochastic Processes
-- Markov Decission Process
-- Reinforcement Learning
-- Stochastic Games
-- Mean Field Games
-- Stochastic Approximation
-- Applied Probability
-
 ---
 
 # Current Research
 
 My current research includes
 
-- SFluid analysis of Polling Systems
+- Fluid analysis of Polling Systems
 - Mean Field Restless Bandit Games
 - Learning in Partially Observable Stochastic Games
 - Pursuit-evasion Game
@@ -88,11 +76,10 @@ My current research includes
 ### Courses
 
 - Decision Analysis and Game Theory
-- Advanced Topics in Game Theory
 - Markov Decision Processes
 - Advanced Stochastic Processes
-- Seminar
-- Communication Skills
+- Queueing theory
+- Probability & Statistics
 
 <a href="/teaching/" class="btn btn--info">Teaching</a>
 
@@ -101,10 +88,10 @@ My current research includes
 # Professional Activities
 
 - Reviewer for international journals
-- Conference presentations
-- International collaborations
-- Workshops/ Symposiums
+- International collaborations/ Research visits
 - Teaching/ Student mentoring
+- Conference presentations
+- Attending Workshops/ Symposiums
 
 <a href="/activities/" class="btn btn--warning">Professional Activities</a>
 
