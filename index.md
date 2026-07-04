@@ -1,37 +1,39 @@
 ---
 layout: splash
-title: "Dr. Kousik Das"
+title: ""
 author_profile: false
 header:
-  overlay_color: "#ffffff"
+  overlay_color: "#1f4e79"
 ---
 
-<div style="display:flex;align-items:center;gap:35px;flex-wrap:wrap;margin-bottom:40px;">
+<div class="hero">
 
-<img src="/assets/images/profile.jpg"
-     style="width:300px;height:300px;border-radius:50%;object-fit:cover;border:4px solid #ddd;">
+<div class="hero-photo">
+<img src="/assets/images/profile.jpg" alt="Dr. Kousik Das">
+</div>
 
-<div>
+<div class="hero-text">
 
 # Dr. Kousik Das
 
 ### Postdoctoral Research Scientist
 
-**Laboratoire Informatique d'Avignon (LIA)**  
-**Centre d'Enseignement et de Recherche en Informatique (CERI)**  
-**Avignon Université, France**
+**LIA, CERI, Avignon Université, France**
 
-📧 **Email:** kousik.das@univ-avignon.fr
+Research interests include
 
-### Research Interests
+- Queueing Theory
+- Polling Systems
+- Reinforcement Learning
+- Applied Probability
+- Stochastic Games
+- Mean Field Games
+- Markov Decision Process
+- Stochastc Approximation
 
-Queueing Theory • Polling Systems • Applied Probability • Stochastic Processes • Reinforcement Learning • Markov Decision Processes • Stochastic Games • Mean Field Games • Stochastic Approximation
-
-<br>
-
-<a href="/about/" class="btn btn--primary">About</a>
-<a href="/research/" class="btn btn--primary">Research</a>
-<a href="/publications/" class="btn btn--primary">Publications</a>
+<a class="btn btn--primary" href="/research/">Research</a>
+<a class="btn btn--success" href="/publications/">Publications</a>
+<a class="btn btn--info" href="/contact/">Contact</a>
 
 </div>
 
@@ -39,68 +41,36 @@ Queueing Theory • Polling Systems • Applied Probability • Stochastic Proce
 
 ---
 
-# About Me
+# Welcome
 
-I am a **Postdoctoral Research Scientist** at **Avignon Université, France**, working in the **CORNET** research team with **Prof. Yezekayel Hayel** on the **MUGS** project funded by the **U.S. Army**.
+I am a **Postdoctoral Research Scientist** at **LIA, CERI, Avignon Université**, working in the **CORNET** research team under **Prof. Yezekayel Hayel**.
 
----
-
-# Current Research
-
-My current research includes
-
-- Fluid analysis of Polling Systems
-- Mean Field Restless Bandit Games
-- Learning in Partially Observable Stochastic Games
-- Pursuit-evasion Game
 
 ---
 
-# Selected Publications
+## Research Highlights
 
-- **A Simple Procedure to Determine the Queue Length and Waiting Time Distributions for M/Ga,b/1 Queueing System**  
-  *Mathematical Methods of Operations Research*, 2025.
-
-- **Stability of Polling Systems for a Large Class of Markovian Switching Policies**  
-  *IEEE Conference on Decision and Control (CDC 2025).*
-
-- **Analytical and Computational Investigation of the GI/D-BMSP/1 Queueing System**  
-  *Journal of Systems Science and Systems Engineering*, 2024.
-
-<a href="/publications/" class="btn btn--success">View All Publications</a>
+| Area | Current Topics |
+|------|----------------|
+| Queueing Theory | Fluid analysis Polling systems |
+| Reinforcement Learning | POSGs, Bayesian FP learning |
+| Mean Field Game | Restless bandit games |
+| Stochastic Game | Pursuit-Evasion game, Multi-type random turn-by-turn dynamics |
 
 ---
 
-# Teaching
+## Latest News
 
-### Courses
-
-- Decision Analysis and Game Theory
-- Markov Decision Processes
-- Advanced Stochastic Processes
-- Queueing theory
-- Probability & Statistics
-
-<a href="/teaching/" class="btn btn--info">Teaching</a>
+- Presented at **EURO 2025**, University of Leeds.
+- Joined **Avignon Université** as Postdoctoral Research Scientist.
+- Working on the MUGS project funded by the U.S. Army.
 
 ---
 
-# Professional Activities
+## Explore
 
-- Reviewer for international journals
-- International collaborations/ Research visits
-- Teaching/ Student mentoring
-- Conference presentations
-- Attending Workshops/ Symposiums
-
-<a href="/activities/" class="btn btn--warning">Professional Activities</a>
-
----
-
-# Contact
-
-📧 **kousik.das@univ-avignon.fr**
-
-**Avignon Université**
-
-<a href="/contact/" class="btn btn--primary">Contact</a>
+- Research
+- Publications
+- Teaching
+- Activities
+- Contact
