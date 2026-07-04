@@ -41,7 +41,7 @@ Queueing Theory • Polling Systems • Applied Probability • Stochastic Proce
 
 # About Me
 
-I am a **Postdoctoral Research Scientist** at **Avignon Université, France**, working in the **CORNET** research team under the supervision of **Prof. Yezekayel Hayel** on the **MUGS** project funded by the **U.S. Army**.
+I am a **Postdoctoral Research Scientist** at **Avignon Université, France**, working in the **CORNET** research team with **Prof. Yezekayel Hayel** on the **MUGS** project funded by the **U.S. Army**.
 
 ---
 
