@@ -1,11 +1,11 @@
 ---
-title: "About"
+title: "Biographyo"
 permalink: /about/
 layout: single
 author_profile: true
 ---
 
-## Biography
+
 
 I am a **Postdoctoral Research Scientist** at the **Laboratoire Informatique d'Avignon (LIA)**, **Centre d'Enseignement et de Recherche en Informatique (CERI)**, **Avignon Université, France**.
 

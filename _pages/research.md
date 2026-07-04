@@ -1,11 +1,11 @@
 ---
-title: "Research"
+title: "Research Overview"
 permalink: /research/
 layout: single
 author_profile: true
 ---
 
-## Research Overview
+
 
 My research lies at the intersection of **Applied Probability**, **Operations Research**, **Stochastic Approximations**, **Reinforcement Learning**, and **Game Theory**. I develop mathematical models and computational algorithms for analyzing complex stochastic systems arising in communication networks, service systems, cyber-security, and intelligent decision-making.
 

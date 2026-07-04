@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-# Publications
+
 
 My research contributions are in **queueing theory, stochastic systems, polling models, reinforcement learning, and stochastic games**.
 

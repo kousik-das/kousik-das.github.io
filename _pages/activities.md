@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-# Professional Activities
+
 
 ## Journal Reviewing
 
