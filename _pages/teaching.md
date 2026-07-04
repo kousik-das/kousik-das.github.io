@@ -41,6 +41,7 @@ I am passionate about teaching mathematics, probability, stochastic modelling, a
 | MCA-II    (2023-2) | Statistical Computing |
 | MCA-IV    (2023-2) | Computer Oriented Optmization |
 
+--
 
 ## Teaching Interests
 
