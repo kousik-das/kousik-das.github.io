@@ -9,7 +9,7 @@ header:
 <div style="display:flex;align-items:center;gap:35px;flex-wrap:wrap;margin-bottom:40px;">
 
 <img src="/assets/images/profile.jpg"
-     style="width:300px;height:300px;border-radius:50%;object-fit:cover;border:4px solid #ddd;">
+     style="width:320px;height:320px;border-radius:50%;object-fit:cover;border:4px solid #ddd;">
 
 <div>
 
@@ -48,10 +48,11 @@ My research focuses on developing rigorous mathematical models and computational
 - Queueing Theory
 - Polling Systems
 - Stochastic Processes
+- Markov Decission Process
 - Reinforcement Learning
 - Stochastic Games
 - Mean Field Games
-- Network Optimization
+- Stochastic Approximation
 - Applied Probability
 
 ---
@@ -60,12 +61,10 @@ My research focuses on developing rigorous mathematical models and computational
 
 My current research includes
 
-- Stability of Polling Systems
+- SFluid analysis of Polling Systems
 - Mean Field Restless Bandit Games
-- Reinforcement Learning in Partially Observable Stochastic Games
-- Bayesian Fictitious Play
-- Cyber Deception Games
-- Network Optimization
+- Learning in Partially Observable Stochastic Games
+- Pursuit-evasion Game
 
 ---
 
@@ -104,8 +103,8 @@ My current research includes
 - Reviewer for international journals
 - Conference presentations
 - International collaborations
-- Workshops and FDPs
-- Graduate student mentoring
+- Workshops/ Symposiums
+- Teaching/ Student mentoring
 
 <a href="/activities/" class="btn btn--warning">Professional Activities</a>
 
