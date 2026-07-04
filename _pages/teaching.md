@@ -28,6 +28,20 @@ I am passionate about teaching mathematics, probability, stochastic modelling, a
 
 ---
 
+## Taught Courses
+
+### National Institue of Technology Raipur
+
+| Semester | Course |
+|----------|--------|
+| B.Tech-I  (2023-1) | Differenetial Calculus |
+| B.Tech-I  (2023-1) | Real Analysis |
+| B.Tech-I  (2023-1) | Integral Calculus |
+| B.Tech-IV (2023-2) | Probability & Statistics |
+| MCA-II    (2023-2) | Statistical Computing |
+| MCA-IV    (2023-2) | Computer Oriented Optmization |
+
+
 ## Teaching Interests
 
 - Probability and Statistics

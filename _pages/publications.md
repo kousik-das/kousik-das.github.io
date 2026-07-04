@@ -18,7 +18,7 @@ Publications are grouped into **journal articles, conference papers, and accepte
 **1.**
 S. K. Samanta, **K. Das**,  
 *A simple procedure to determine the queue length and waiting time distributions for M/Ga,b/1 queueing system*,  
-Mathematical Methods of Operations Research, 2025.  
+Mathematical Methods of Operations Research, 2025.  (SCIE)
 DOI: https://doi.org/10.1007/s00186-025-00910-6  
 
 ---
@@ -26,7 +26,7 @@ DOI: https://doi.org/10.1007/s00186-025-00910-6
 **2.**
 **K. Das**, S. K. Samanta,  
 *Analytical and computational investigation of the GI/D-BMSP/1 queueing system*,  
-Journal of Systems Science and Systems Engineering, 2024.  
+Journal of Systems Science and Systems Engineering, 2024.  (SCIE)
 DOI: https://doi.org/10.1007/s11518-024-5615-y  
 
 ---
@@ -34,7 +34,7 @@ DOI: https://doi.org/10.1007/s11518-024-5615-y
 **3.**
 **K. Das**, S. K. Samanta,  
 *Analytic computation for stationary distributions of D-BMAP/D-MSP(a,b)/1 queueing system*,  
-International Journal of Computer Mathematics: Computer Systems Theory, 2024.  
+International Journal of Computer Mathematics: Computer Systems Theory, 2024.  (ESCI/SCOPUS)
 DOI: https://doi.org/10.1080/23799927.2024.2415451  
 
 ---
@@ -42,7 +42,7 @@ DOI: https://doi.org/10.1080/23799927.2024.2415451
 **4.**
 S. K. Samanta, **K. Das**,  
 *Detailed analytical and computational studies of D-BMAP/D-BMSP/1 queueing system*,  
-Methodology and Computing in Applied Probability, 2023.  
+Methodology and Computing in Applied Probability, 2023.  (SCIE)
 DOI: https://doi.org/10.1007/s11009-023-10012-7  
 
 ---
@@ -59,6 +59,7 @@ DOI: https://doi.org/10.1007/s00186-023-00816-1
 S. K. Samanta, **K. Das**, 
 *Computing stationary distributions of the D-MAP/D-MSP(a,b)/1 queueing system* 
 Journal of Ambient Intelligence and Humanized Computing, 13(1): 571-590, 2022. (SCIE)
+DOI: https://doi.org/10.1007/s12652-021-02919-1
 
 ---
 
@@ -66,11 +67,12 @@ Journal of Ambient Intelligence and Humanized Computing, 13(1): 571-590, 2022. (
 **K. Das**, S. K. Samanta, 
 *Modelling and analysis of D-BMAP/D-MSP/1 queue using RGfactorization*
 Quality Technology & Quantitative Management, 18(3): 355-381, 2021. (SCIE)
+DOI: https://doi.org/10.1080/16843703.2020.1830477
 
 
 ## Conference Papers
 
-**6.**
+**8.**
 K. Avrachenkov, **K. Das**, V. Kavitha, V. Singh,  
 *Stability of polling systems for a large class of Markovian switching policies*,  
 IEEE Conference on Decision and Control (CDC), 2025, Rio de Janeiro, Brazil.  
@@ -80,11 +82,19 @@ DOI: https://doi.org/10.1109/CDC57313.2025.11312235
 
 ## Conference Abstracts
 
-**7.**
+**9.**
+**K. Das**, Y. Hayel,  
+*A Bayesian Fictitious Play approach to solve Partially Observable Pursuit-evasion games*,  
+21st International Symposium on Dynamic Games and Applications (2026), Boğaziçi University, Istanbul, Turkey.
+
+--
+
+**10.**
 **K. Das**, V. Singh, K. Avrachenkov, V. Kavitha,  
 *Stability of polling systems: A linear class of two-phase switching policies near fluid limit*,  
 European Conference on Operational Research (EURO 2025), University of Leeds, UK.  
-Accepted Abstract.
+DOI: https://www.euro-online.org/conf/euro34/treat_abstract?frompage=search&paperid=976
+ 
 
 ---
 
