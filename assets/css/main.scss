@@ -3,23 +3,6 @@
 
 @import "minimal-mistakes";
 
-/* Make the left sidebar wider */
-.sidebar {
-    width: 340px;
-}
-
-/* Move the content to the right */
-@media (min-width: 80em) {
-    .archive {
-        width: calc(100% - 380px);
-        float: right;
-    }
-
-    .sidebar {
-        width: 340px;
-    }
-}
-
 /* Bigger profile image */
 .author__avatar img {
     width: 260px;

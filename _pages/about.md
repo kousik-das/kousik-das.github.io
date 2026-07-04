@@ -1,8 +1,8 @@
 ---
-title: "Biographyo"
+title: "Biography"
 permalink: /about/
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 

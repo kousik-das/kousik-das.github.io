@@ -2,7 +2,7 @@
 title: "Research Overview"
 permalink: /research/
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 

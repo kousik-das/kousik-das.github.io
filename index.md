@@ -1,45 +1,120 @@
 ---
-layout: home
-author_profile: true
+layout: splash
 title: "Dr. Kousik Das"
+author_profile: false
+header:
+  overlay_color: "#ffffff"
 ---
 
-# Welcome
+<div style="display:flex;align-items:center;gap:35px;flex-wrap:wrap;margin-bottom:40px;">
 
-I am a **Postdoctoral Research Scientist** at the **LIA, CERI, Avignon Université**, France.
+<img src="/assets/images/profile.jpg"
+     style="width:240px;height:240px;border-radius:50%;object-fit:cover;border:4px solid #ddd;">
 
-I work in the **CORNET** research team with **Prof. Yezekayel Hayel** on the **MUGS: Multi-layer graph games for network cyberdeception** project funded by the **U.S. Army**.
+<div>
 
-My research interests include:
+# Dr. Kousik Das
+
+### Postdoctoral Research Scientist
+
+**Laboratoire Informatique d'Avignon (LIA)**  
+**Centre d'Enseignement et de Recherche en Informatique (CERI)**  
+**Avignon Université, France**
+
+📧 **Email:** kousik.das@univ-avignon.fr
+
+### Research Interests
+
+Queueing Theory • Polling Systems • Applied Probability • Stochastic Processes • Reinforcement Learning • Markov Decision Processes • Stochastic Games • Mean Field Games • Network Optimization
+
+<br>
+
+<a href="/about/" class="btn btn--primary">About</a>
+<a href="/research/" class="btn btn--primary">Research</a>
+<a href="/publications/" class="btn btn--primary">Publications</a>
+
+</div>
+
+</div>
+
+---
+
+# About Me
+
+I am a **Postdoctoral Research Scientist** at **Avignon Université, France**, working in the **CORNET** research team under the supervision of **Prof. Yezekayel Hayel** on the **MUGS** project funded by the **U.S. Army**.
+
+My research focuses on developing rigorous mathematical models and computational algorithms in
 
 - Queueing Theory
 - Polling Systems
+- Stochastic Processes
 - Reinforcement Learning
 - Stochastic Games
-- Mean Filed Games
+- Mean Field Games
+- Network Optimization
+- Applied Probability
+
+---
+
+# Current Research
+
+My current research includes
+
+- Stability of Polling Systems
+- Mean Field Restless Bandit Games
+- Reinforcement Learning in Partially Observable Stochastic Games
+- Bayesian Fictitious Play
+- Cyber Deception Games
+- Network Optimization
+
+---
+
+# Selected Publications
+
+- **A Simple Procedure to Determine the Queue Length and Waiting Time Distributions for M/Ga,b/1 Queueing System**  
+  *Mathematical Methods of Operations Research*, 2025.
+
+- **Stability of Polling Systems for a Large Class of Markovian Switching Policies**  
+  *IEEE Conference on Decision and Control (CDC 2025).*
+
+- **Analytical and Computational Investigation of the GI/D-BMSP/1 Queueing System**  
+  *Journal of Systems Science and Systems Engineering*, 2024.
+
+<a href="/publications/" class="btn btn--success">View All Publications</a>
+
+---
+
+# Teaching
+
+### Courses
+
+- Decision Analysis and Game Theory
+- Advanced Topics in Game Theory
 - Markov Decision Processes
-- Applied Probability 
-- Stochastic Approximations
+- Advanced Stochastic Processes
+- Seminar
+- Communication Skills
+
+<a href="/teaching/" class="btn btn--info">Teaching</a>
 
 ---
 
-## Current Position
+# Professional Activities
 
-**Postdoctoral Research Scientist**
+- Reviewer for international journals
+- Conference presentations
+- International collaborations
+- Workshops and FDPs
+- Graduate student mentoring
 
-Laboratoire Informatique d'Avignon (LIA)
-
-The Center for Teaching and Research in Computer Science (CERI)
-
-Avignon Université
-
-France
+<a href="/activities/" class="btn btn--warning">Professional Activities</a>
 
 ---
 
-## Quick Links
+# Contact
 
-- Google Scholar
-- ORCID
-- LinkedIn
-- Email
+📧 **kousik.das@univ-avignon.fr**
+
+**Avignon Université**
+
+<a href="/contact/" class="btn btn--primary">Contact</a>
