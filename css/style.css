@@ -698,7 +698,7 @@ display:block;
 
 .cards .card {
   background:
-    linear-gradient(135deg, rgba(247, 251, 255, 0.9), rgba(238, 246, 255, 0.9)),
+    linear-gradient(135deg, rgba(245, 251, 255, 0.92), rgba(232, 244, 255, 0.92)),
     url("assets/images/paper-texture.jpg") repeat;
 
   background-size: 100% 100%, 320px 320px;
@@ -716,7 +716,7 @@ display:block;
 
 .publication-card {
   background:
-    linear-gradient(135deg, rgba(248, 251, 255, 0.92), rgba(234, 243, 255, 0.92)),
+    linear-gradient(135deg, rgba(248, 251, 255, 0.95), rgba(234, 243, 255, 0.95)),
     url("assets/images/paper-texture.jpg") repeat;
 
   background-size: 100% 100%, 320px 320px;
@@ -754,7 +754,6 @@ display:block;
 }
 
 /* ================= OPTIONAL SECTION BACKGROUND COLORS ================= */
-
 .welcome-section {
   background: linear-gradient(135deg, #e8f3ff, #d6eaff);
 }
