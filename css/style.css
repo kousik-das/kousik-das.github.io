@@ -688,7 +688,7 @@ display:block;
 .welcome-section{
     background:
         linear-gradient(rgba(232,243,255,.88), rgba(214,234,255,.88)),
-        url("assets/images/paper-texture.jpg");
+        url("../assets/images/paper-texture.jpg");
 
     background-size:cover,320px 320px;
     background-repeat:no-repeat,repeat;
