@@ -877,3 +877,130 @@ body.dark .paper p {
 body.dark .sidebar {
     background: #070d1a;
 }
+
+/* ================= GLOBAL BACKGROUND (PAPER TEXTURE) ================= */
+
+body {
+  font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+  color: #222;
+  line-height: 1.7;
+
+  background: url("assets/images/paper-texture.jpg") repeat;
+  background-size: 800px 800px;
+  background-color: #f4f6fb;
+}
+
+/* ================= WELCOME (HERO) SECTION ================= */
+
+.hero {
+  background: url("assets/images/paper-texture.jpg") repeat;
+  background-size: 800px 800px;
+  background-color: #ffffff;
+
+  padding: 45px 50px;
+  border-radius: 22px;
+
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08),
+              0 2px 10px rgba(0, 0, 0, 0.04);
+
+  margin-bottom: 45px;
+}
+
+/* ================= COMMON STYLE FOR ALL CARDS ================= */
+
+.cards .card {
+  background: url("assets/images/paper-texture.jpg") repeat;
+  background-size: 800px 800px;
+  background-color: #ffffff;
+
+  padding: 35px 30px;
+  border-radius: 18px;
+
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08),
+              0 2px 8px rgba(0, 0, 0, 0.04);
+
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.cards .card:hover {
+  transform: translateY(-6px);
+
+  box-shadow: 0 14px 32px rgba(0, 0, 0, 0.12),
+              0 4px 12px rgba(0, 0, 0, 0.06);
+}
+
+/* ================= PUBLICATION SECTION ================= */
+
+.publication-card {
+  background: url("assets/images/paper-texture.jpg") repeat;
+  background-size: 800px 800px;
+  background-color: #ffffff;
+
+  padding: 40px 45px;
+  border-radius: 18px;
+
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08),
+              0 2px 8px rgba(0, 0, 0, 0.04);
+
+  margin-top: 40px;
+}
+
+/* Publication paper blocks */
+.paper {
+  background: rgba(255, 255, 255, 0.75);
+  border-left: 5px solid #2f80ed;
+
+  padding: 18px 20px;
+  border-radius: 10px;
+
+  margin-bottom: 18px;
+
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.paper:hover {
+  transform: translateX(6px);
+
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+/* ================= RESPONSIVE ================= */
+
+@media (max-width: 900px) {
+  .hero,
+  .cards,
+  .publication-card {
+    border-radius: 16px;
+    padding: 30px 20px;
+  }
+}
+
+/* ================= OPTIONAL SECTION BACKGROUND COLORS ================= */
+
+.welcome-section {
+  background-color: #f8fbff;
+}
+
+.research-card {
+  background-color: #f6fbff;
+}
+
+.current-card {
+  background-color: #fbf9ff;
+}
+
+.news-card {
+  background-color: #fffdf4;
+}
+
+.publication-section {
+  background-color: #f9fcff;
+}
+
+/* ================= HERO IMAGE STYLING ================= */
+
+.hero-top-image img,
+.hero-right img {
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
