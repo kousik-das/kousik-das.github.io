@@ -1,25 +1,574 @@
-body{margin:0;font-family:Arial,sans-serif;background:#f5f7fa;color:#222;line-height:1.6}
-.layout{display:flex;min-height:100vh}
-.sidebar{position:fixed;left:0;top:0;width:290px;height:100vh;background:#0b2545;color:#fff;padding:28px;overflow-y:auto;box-sizing:border-box}
-.profile-img{display:block;width:180px;height:180px;border-radius:50%;object-fit:cover;border:4px solid #fff;margin:0 auto 20px}
-.sidebar h1{font-size:28px;margin:10px 0;text-align:center}
-.sidebar p{text-align:center;font-size:14px}
-.sidebar a{color:#fff;text-decoration:none}
-.cv-btn{display:block;background:#1e88e5;padding:10px 14px;border-radius:6px;text-align:center;font-weight:bold;margin:18px 0}
-.cv-btn:hover{background:#1565c0}
-.menu,.links{list-style:none;padding:0;margin:15px 0}
-.menu li,.links li{margin:8px 0}
-.menu a{display:block;padding:8px 10px;border-radius:5px}
-.menu a:hover{background:#173d6b}
-.visitor-counter{text-align:center;margin-top:25px}
-.visitor-counter img{max-width:100%;border-radius:6px}
-.content{margin-left:320px;max-width:950px;padding:40px}
-section{background:#fff;padding:24px;margin-bottom:28px;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
-h2{color:#0b2545;border-bottom:2px solid #1e88e5;padding-bottom:8px}
-.hero{background:linear-gradient(135deg,#eef5ff,#fff)}
-ul,ol{padding-left:22px}
+/* ===============================
+   GLOBAL
+==================================*/
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+
+    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+
+    background:#eef2f7;
+
+    color:#222;
+
+    line-height:1.7;
+}
+
+
+/* ===============================
+   LAYOUT
+==================================*/
+
+.layout{
+
+    display:flex;
+
+    min-height:100vh;
+
+}
+
+
+/* ===============================
+   SIDEBAR
+==================================*/
+
+.sidebar{
+
+    position:fixed;
+
+    left:0;
+
+    top:0;
+
+    width:300px;
+
+    height:100vh;
+
+    overflow-y:auto;
+
+    background:#0b2545;
+
+    color:white;
+
+    padding:35px;
+
+    box-shadow:4px 0 20px rgba(0,0,0,.15);
+
+}
+
+
+/* ===============================
+   PROFILE
+==================================*/
+
+.profile-img{
+
+    width:180px;
+
+    height:180px;
+
+    border-radius:50%;
+
+    object-fit:cover;
+
+    border:5px solid white;
+
+    display:block;
+
+    margin:auto;
+
+}
+
+
+.sidebar h1{
+
+    margin-top:20px;
+
+    text-align:center;
+
+    font-size:30px;
+
+}
+
+
+.sidebar p{
+
+    margin-top:10px;
+
+    text-align:center;
+
+    color:#dfe8f3;
+
+}
+
+
+/* ===============================
+   CV BUTTON
+==================================*/
+
+.cv-btn{
+
+    display:block;
+
+    margin:25px auto;
+
+    width:100%;
+
+    text-align:center;
+
+    padding:12px;
+
+    border-radius:8px;
+
+    text-decoration:none;
+
+    background:#2f80ed;
+
+    color:white;
+
+    font-weight:600;
+
+    transition:.3s;
+
+}
+
+.cv-btn:hover{
+
+    background:#1565c0;
+
+}
+
+
+/* ===============================
+   MENU
+==================================*/
+
+.menu{
+
+    list-style:none;
+
+    margin-top:25px;
+
+}
+
+
+.menu li{
+
+    margin:10px 0;
+
+}
+
+
+.menu a{
+
+    display:block;
+
+    padding:10px 15px;
+
+    color:white;
+
+    text-decoration:none;
+
+    border-radius:6px;
+
+    transition:.3s;
+
+}
+
+
+.menu a:hover{
+
+    background:#163963;
+
+    padding-left:25px;
+
+}
+
+
+/* ===============================
+   SOCIAL
+==================================*/
+
+.links{
+
+    list-style:none;
+
+    margin-top:15px;
+
+}
+
+
+.links li{
+
+    margin:8px 0;
+
+}
+
+
+.links a{
+
+    color:#dfe8f3;
+
+    text-decoration:none;
+
+}
+
+
+.links a:hover{
+
+    color:white;
+
+}
+
+
+/* ===============================
+   VISITOR COUNTER
+==================================*/
+
+.visitor-counter{
+
+    margin-top:35px;
+
+    text-align:center;
+
+}
+
+.visitor-counter img{
+
+    width:220px;
+
+    border-radius:8px;
+
+}
+
+
+/* ===============================
+   CONTENT
+==================================*/
+
+.content{
+
+    margin-left:330px;
+
+    width:calc(100% - 330px);
+
+    padding:50px;
+
+}
+
+
+/* ===============================
+   HERO
+==================================*/
+
+.hero{
+
+    display:grid;
+
+    grid-template-columns:2fr 1fr;
+
+    gap:50px;
+
+    background:white;
+
+    border-radius:18px;
+
+    padding:50px;
+
+    box-shadow:0 8px 30px rgba(0,0,0,.08);
+
+    margin-bottom:40px;
+
+}
+
+
+.hero h1{
+
+    font-size:42px;
+
+    color:#0b2545;
+
+    margin-bottom:20px;
+
+}
+
+
+.hero p{
+
+    font-size:18px;
+
+    margin-bottom:20px;
+
+    color:#444;
+
+}
+
+
+.hero img{
+
+    width:100%;
+
+    border-radius:15px;
+
+}
+
+
+/* ===============================
+   BUTTONS
+==================================*/
+
+.hero-buttons{
+
+    margin-top:35px;
+
+}
+
+
+.primary-btn{
+
+    display:inline-block;
+
+    padding:12px 28px;
+
+    background:#0b2545;
+
+    color:white;
+
+    border-radius:6px;
+
+    text-decoration:none;
+
+    margin-right:15px;
+
+}
+
+
+.secondary-btn{
+
+    display:inline-block;
+
+    padding:12px 28px;
+
+    background:#2f80ed;
+
+    color:white;
+
+    border-radius:6px;
+
+    text-decoration:none;
+
+}
+
+
+/* ===============================
+   CARDS
+==================================*/
+
+.cards{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:30px;
+
+    margin-bottom:40px;
+
+}
+
+
+.card{
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:16px;
+
+    box-shadow:0 5px 25px rgba(0,0,0,.06);
+
+    transition:.3s;
+
+}
+
+
+.card:hover{
+
+    transform:translateY(-8px);
+
+}
+
+
+.card h2{
+
+    color:#0b2545;
+
+    margin-bottom:18px;
+
+}
+
+
+/* ===============================
+   TAGS
+==================================*/
+
+.tags{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:10px;
+
+}
+
+
+.tags span{
+
+    background:#edf5ff;
+
+    color:#0b2545;
+
+    padding:8px 14px;
+
+    border-radius:30px;
+
+    font-size:14px;
+
+}
+
+
+/* ===============================
+   PUBLICATIONS
+==================================*/
+
+.publication-card{
+
+    background:white;
+
+    border-radius:18px;
+
+    padding:40px;
+
+    box-shadow:0 8px 30px rgba(0,0,0,.08);
+
+}
+
+
+.section-header{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    margin-bottom:30px;
+
+}
+
+
+.section-header h2{
+
+    color:#0b2545;
+
+}
+
+
+.section-header a{
+
+    text-decoration:none;
+
+    color:#2f80ed;
+
+}
+
+
+.paper{
+
+    border-left:5px solid #2f80ed;
+
+    padding-left:20px;
+
+    margin-bottom:25px;
+
+}
+
+
+.paper h3{
+
+    font-size:21px;
+
+    color:#222;
+
+}
+
+
+.paper p{
+
+    color:#666;
+
+    margin-top:6px;
+
+}
+
+
+/* ===============================
+   RESPONSIVE
+==================================*/
+
+@media(max-width:1100px){
+
+.hero{
+
+grid-template-columns:1fr;
+
+}
+
+.cards{
+
+grid-template-columns:1fr;
+
+}
+
+}
+
+
 @media(max-width:900px){
-.sidebar{position:relative;width:100%;height:auto}
-.content{margin-left:0;padding:20px}
-.layout{display:block}
+
+.sidebar{
+
+position:relative;
+
+width:100%;
+
+height:auto;
+
+}
+
+.content{
+
+margin-left:0;
+
+width:100%;
+
+padding:25px;
+
+}
+
+.layout{
+
+display:block;
+
+}
+
 }
