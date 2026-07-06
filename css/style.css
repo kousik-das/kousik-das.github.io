@@ -13,13 +13,12 @@ html{
 }
 
 body{
-
-    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
-
-    background:#eef2f7;
-
+    font-family:"Segoe UI",Helvetica,Arial,sans-serif;
+    background:
+        url("assets/images/paper-texture.jpg") repeat,
+        linear-gradient(#eef4fa,#edf3fa);
+    background-size:320px 320px,100% 100%;
     color:#222;
-
     line-height:1.7;
 }
 
