@@ -771,25 +771,24 @@ display:block;
 /* ================= OPTIONAL SECTION BACKGROUND COLORS ================= */
 
 .welcome-section {
-  background-color: #f8fbff;
+  background: linear-gradient(135deg, #e8f3ff, #d6eaff);
 }
 
 .research-card {
-  background-color: #f6fbff;
+  background: linear-gradient(135deg, #eef7ff, #e3f2ff);
 }
 
 .current-card {
-  background-color: #fbf9ff;
+  background: linear-gradient(135deg, #f3f0ff, #e9e2ff);
 }
 
 .news-card {
-  background-color: #fffdf4;
+  background: linear-gradient(135deg, #fff6e6, #fff1d6);
 }
 
 .publication-section {
-  background-color: #f9fcff;
+  background: linear-gradient(135deg, #f6faff, #eaf3ff);
 }
-
 /* ================= HERO IMAGE STYLING ================= */
 
 .hero-top-image img,
