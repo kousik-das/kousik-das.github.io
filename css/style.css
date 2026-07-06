@@ -390,7 +390,7 @@ transition:.3s;
 
 .hero-right img:hover{
 
-transform:scale(1.05);
+transform:scale(1.25);
 
 }
 
@@ -701,7 +701,7 @@ display:block;
 .research-card{
 
 background:
-linear-gradient(rgba(237,247,255,.92),rgba(226,241,255,.92)),
+linear-gradient(rgba(240,248,236,.92),rgba(227,242,220,.92)),
 url("assets/images/paper-texture.jpg");
 
 background-repeat:repeat;
