@@ -257,70 +257,120 @@ body{
 
 .content{
 
-    margin-left:330px;
+margin-left:330px;
 
-    width:calc(100% - 330px);
+padding:50px;
 
-    padding:50px;
+max-width:1400px;
 
 }
 
 
-/* ===============================
-   HERO
-==================================*/
+/* ================= HERO ================= */
 
 .hero{
 
-    display:grid;
+display:grid;
 
-    grid-template-columns:2fr 1fr;
+grid-template-columns:1.8fr 1fr;
 
-    gap:50px;
+gap:45px;
 
-    background:white;
+padding:55px;
 
-    border-radius:18px;
+border-radius:20px;
 
-    padding:50px;
+box-shadow:0 10px 35px rgba(0,0,0,.08);
 
-    box-shadow:0 8px 30px rgba(0,0,0,.08);
-
-    margin-bottom:40px;
+margin-bottom:45px;
 
 }
 
+.hero-left h1{
 
-.hero h1{
+font-size:48px;
 
-    font-size:42px;
+color:#0b2545;
 
-    color:#0b2545;
-
-    margin-bottom:20px;
-
-}
-
-
-.hero p{
-
-    font-size:18px;
-
-    margin-bottom:20px;
-
-    color:#444;
+margin:15px 0;
 
 }
 
+.hero-left h3{
 
-.hero img{
+color:#2f80ed;
 
-    width:100%;
+margin-bottom:25px;
 
-    border-radius:15px;
+font-weight:500;
 
 }
 
+.hero-left p{
+
+font-size:18px;
+
+color:#444;
+
+margin-bottom:20px;
+
+text-align:justify;
+
+}
+
+.welcome-tag{
+
+display:inline-block;
+
+background:#0b2545;
+
+color:white;
+
+padding:8px 18px;
+
+border-radius:25px;
+
+font-size:14px;
+
+letter-spacing:1px;
+
+}
+
+.hero-right{
+
+display:flex;
+
+flex-direction:column;
+
+justify-content:center;
+
+gap:20px;
+
+}
+
+.hero-right img{
+
+width:100%;
+
+height:220px;
+
+object-fit:cover;
+
+border-radius:16px;
+
+border:4px solid white;
+
+box-shadow:0 18px 40px rgba(0,0,0,.22);
+
+transition:0.3s;
+
+}
+
+.hero-right img:hover{
+
+transform:scale(1.03);
+
+}
 
 /* ===============================
    BUTTONS
@@ -333,13 +383,15 @@ body{
 }
 
 
-.primary-btn{
+.primary-btn:hover{
 
     display:inline-block;
 
     padding:12px 28px;
 
     background:#0b2545;
+
+    background:#184a8c;
 
     color:white;
 
@@ -352,13 +404,14 @@ body{
 }
 
 
-.secondary-btn{
+.secondary-btn:hover{
 
     display:inline-block;
 
     padding:12px 28px;
 
     background:#2f80ed;
+    background:#1565c0;
 
     color:white;
 
@@ -381,6 +434,8 @@ body{
 
     gap:30px;
 
+    align-items:stretch;
+
     margin-bottom:40px;
 
 }
@@ -388,31 +443,36 @@ body{
 
 .card{
 
-    background:white;
+padding:30px;
 
-    padding:30px;
+border-radius:18px;
 
-    border-radius:16px;
+box-shadow:0 8px 25px rgba(0,0,0,.08);
 
-    box-shadow:0 5px 25px rgba(0,0,0,.06);
-
-    transition:.3s;
+transition:all .3s ease;
 
 }
 
 
 .card:hover{
 
-    transform:translateY(-8px);
+transform:translateY(-6px);
+
+box-shadow:0 15px 35px rgba(0,0,0,.12);
 
 }
 
 
-.card h2{
+.card h2,
+.publication-card h2{
 
-    color:#0b2545;
+font-size:28px;
 
-    margin-bottom:18px;
+font-weight:700;
+
+margin-bottom:22px;
+
+color:#0b2545;
 
 }
 
@@ -495,11 +555,25 @@ body{
 
 .paper{
 
-    border-left:5px solid #2f80ed;
+padding:20px;
 
-    padding-left:20px;
+background:white;
 
-    margin-bottom:25px;
+border-radius:10px;
+
+border-left:5px solid #2f80ed;
+
+margin-bottom:18px;
+
+transition:.3s;
+
+}
+
+.paper:hover{
+
+transform:translateX(6px);
+
+box-shadow:0 5px 15px rgba(0,0,0,.08);
 
 }
 
@@ -555,6 +629,18 @@ height:auto;
 
 }
 
+.sidebar hr{
+
+border:none;
+
+height:1px;
+
+background:rgba(255,255,255,.2);
+
+margin:25px 0;
+
+}
+
 .content{
 
 margin-left:0;
@@ -571,4 +657,29 @@ display:block;
 
 }
 
+}
+
+/* Welcome */
+.welcome-section{
+    background:linear-gradient(135deg,#eef5ff,#dcecff);
+}
+
+/* Research Interests */
+.research-card{
+    background:#f5fbff;
+}
+
+/* Current Research */
+.current-card{
+    background:#f9f7ff;
+}
+
+/* Latest News */
+.news-card{
+    background:#fff8eb;
+}
+
+/* Publications */
+.publication-section{
+    background:#f8fbff;
 }
