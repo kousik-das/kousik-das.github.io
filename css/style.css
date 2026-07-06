@@ -714,7 +714,7 @@ display:block;
     position:absolute;
     inset:0;
 
-    background:url("../assets/images/paper-texture.jpg") repeat;
+    background:url("assets/images/bg-texture.png") repeat;
 
     background-size:320px;
 
