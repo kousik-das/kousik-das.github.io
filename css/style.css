@@ -367,51 +367,21 @@ display:grid;
 
 grid-template-columns:55% 45%;
 
-gap:40px;
+gap:35px;
 
 align-items:start;
 
-margin-top:25px;
-
 }
-
-/* Right side */
-
-.hero-right{
-
-display:flex;
-
-justify-content:center;
-
-align-items:flex-start;
-
-}
-
-/* Right image */
 
 .hero-right img{
 
 width:100%;
 
-max-width:420px;
-
-height:320px;
+height:420px;
 
 object-fit:cover;
 
 border-radius:18px;
-
-border:3px solid white;
-
-box-shadow:0 12px 30px rgba(0,0,0,.18);
-
-transition:0.3s;
-
-}
-
-.hero-right img:hover{
-
-transform:scale(1.03);
 
 }
 
