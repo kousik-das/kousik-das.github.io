@@ -700,14 +700,36 @@ display:block;
 
 .research-card{
 
-background:
-linear-gradient(rgba(240,248,236,.92),rgba(227,242,220,.92)),
-url("assets/images/paper-texture.jpg");
+    position:relative;
+    overflow:hidden;
 
-background-repeat:repeat;
-background-size:auto,320px 320px;
+    background:#edf9f0;
 
 }
+
+.research-card::before{
+
+    content:"";
+
+    position:absolute;
+    inset:0;
+
+    background:url("../assets/images/paper-texture.jpg") repeat;
+
+    background-size:320px;
+
+    opacity:.22;
+
+}
+
+.research-card>*{
+
+    position:relative;
+    z-index:2;
+
+}
+
+
 /* ---------- CURRENT RESEARCH ---------- */
 
 .current-card{
