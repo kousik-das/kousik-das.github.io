@@ -685,21 +685,21 @@ display:block;
 /* ================= WELCOME (HERO) SECTION ================= */
 
 .hero {
-  background: url("assets/images/background-texture.jpg") repeat;
+  background: url("assets/images/paper-texture.jpg") repeat;
   background-size: 800px 800px;
 }
 
 /* ================= COMMON STYLE FOR ALL CARDS ================= */
 
 .cards .card {
-  background: url("assets/images/background-texture.jpg") repeat;
+  background: url("assets/images/paper-texture.jpg") repeat;
   background-size: 800px 800px;
 }
 
 /* ================= PUBLICATION SECTION ================= */
 
 .publication-card {
-  background: url("assets/images/background-texture.jpg") repeat;
+  background: url("assets/images/paper-texture.jpg") repeat;
   background-size: 800px 800px;
 }
 
