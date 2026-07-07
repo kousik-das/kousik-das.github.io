@@ -85,8 +85,6 @@ body{
 
     margin:auto;
 
-    animation:floating 2s ease-in-out infinite !important;
-
 }
 
 
@@ -98,7 +96,7 @@ body{
 
     font-size:30px;
 
-    animation:namePulse 2s ease-in-out infinite !important;
+    animation:floating 2s ease-in-out infinite !important;
 
 }
 
