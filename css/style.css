@@ -85,7 +85,7 @@ body{
 
     margin:auto;
 
-    animation:profileFloat 2.5s ease-in-out infinite;
+    animation:floating 2s ease-in-out infinite !important;
 
 }
 
