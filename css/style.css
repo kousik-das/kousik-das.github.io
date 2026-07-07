@@ -15,7 +15,7 @@ html{
 body{
     font-family:"Segoe UI",Helvetica,Arial,sans-serif;
     background:
-        url("assets/images/bg-texture.png") repeat,
+        url("../assets/images/bg-texture.png") repeat,
         linear-gradient(#eef4fa,#edf3fa);
     background-size:320px 320px,100% 100%;
     color:#222;
@@ -701,7 +701,7 @@ display:block;
 
 background:
 linear-gradient(rgba(240,248,236,.92),rgba(227,242,220,.92)),
-url("assets/images/bg-texture.png");
+url("../assets/images/bg-texture.png");
 
 background-repeat:repeat;
 background-size:auto,320px 320px;
@@ -817,7 +817,7 @@ border-radius:20px;
 
 background:
 linear-gradient(rgba(247,251,255,.94),rgba(234,243,255,.94)),
-url("assets/images/paper-texture.jpg");
+url("../assets/images/paper-texture.jpg");
 
 background-repeat:repeat;
 background-size:auto,320px 320px;
