@@ -85,6 +85,8 @@ body{
 
     margin:auto;
 
+    animation:floatProfile 5s ease-in-out infinite;
+
 }
 
 
@@ -95,6 +97,8 @@ body{
     text-align:center;
 
     font-size:30px;
+
+    animation: glow 3s ease-in-out infinite;
 
 }
 
@@ -327,6 +331,8 @@ font-size:14px;
 
 letter-spacing:1px;
 
+animation:floating 4s ease-in-out infinite;
+
 }
 
 
@@ -354,6 +360,8 @@ border-radius:18px;
 background:white;
 
 box-shadow:0 10px 25px rgba(0,0,0,.15);
+
+animation: slowZoom 18s ease-in-out infinite;
 
 }
 
@@ -473,6 +481,8 @@ border-radius:18px;
 box-shadow:0 8px 25px rgba(0,0,0,.08);
 
 transition:all .3s ease;
+
+animation:floating 8s ease-in-out infinite;
 
 }
 
@@ -897,4 +907,52 @@ box-shadow:0 10px 24px rgba(0,0,0,.08);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
 
+/* =====================================
+   ANIMATIONS
+===================================== */
 
+/* 1. Floating */
+@keyframes floating {
+    0%   { transform: translateY(0px); }
+    50%  { transform: translateY(-8px); }
+    100% { transform: translateY(0px); }
+}
+
+/* 2. Glow */
+@keyframes glow {
+    0% {
+        text-shadow: 0 0 5px rgba(47,128,237,.3);
+    }
+    50% {
+        text-shadow: 0 0 20px rgba(47,128,237,.7);
+    }
+    100% {
+        text-shadow: 0 0 5px rgba(47,128,237,.3);
+    }
+}
+
+/* 3. Gradient animation */
+@keyframes gradientMove {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* 4. Slow zoom */
+@keyframes slowZoom {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.04);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
