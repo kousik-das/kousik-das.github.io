@@ -699,7 +699,7 @@ display:block;
 
     background-size:cover,320px 320px;
     background-repeat:no-repeat,repeat;
-    animation:slowZoom 6s ease-in-out infinite alternate;
+    animation:slowZoom 8s ease-in-out infinite alternate;
 }
 
 
@@ -824,7 +824,7 @@ border:1px solid rgba(40,90,150,.08);
 
 box-shadow:
 0 8px 28px rgba(0,0,0,.08);
-animation:slowZoom 6s ease-in-out infinite alternate;
+animation:slowZoom 8s ease-in-out infinite alternate;
 }
 
 
