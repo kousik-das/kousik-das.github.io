@@ -699,6 +699,7 @@ display:block;
 
     background-size:cover,320px 320px;
     background-repeat:no-repeat,repeat;
+    animation:slowZoom 6s ease-in-out infinite alternate;
 }
 
 
@@ -721,7 +722,7 @@ animation:slowZoom 6s ease-in-out infinite alternate;
 
 background:
 linear-gradient(rgba(245,241,255,.92),rgba(236,229,255,.92)),
-url("assets/images/paper-texture.jpg");
+url("../assets/images/paper-texture.jpg");
 
 background-repeat:repeat;
 background-size:auto,320px 320px;
@@ -735,7 +736,7 @@ animation:slowZoom 6s ease-in-out infinite alternate;
 
 background:
 linear-gradient(rgba(255,249,235,.92),rgba(255,242,219,.92)),
-url("assets/images/paper-texture.jpg");
+url("../assets/images/paper-texture.jpg");
 
 background-repeat:repeat;
 background-size:auto,320px 320px;
@@ -947,7 +948,7 @@ box-shadow:0 10px 24px rgba(0,0,0,.08);
         transform: scale(1);
     }
     50% {
-        transform: scale(1.1);
+        transform: scale(1.08);
     }
     100% {
         transform: scale(1);
